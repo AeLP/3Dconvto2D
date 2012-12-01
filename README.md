@@ -5,7 +5,7 @@
 
 ワールド座標からスクリーン座標への変換
 
-Download プログラム本体 3Dconvto2D.h https://github.com/downloads/AeLP/3Dconvto2D/3Dconvto2D.h 　プログラム解説 解説.pdf https://github.com/downloads/AeLP/3Dconvto2D/%E8%A7%A3%E8%AA%AC.pdf
+Download プログラム本体 3Dconvto2D.hhttps://github.com/downloads/AeLP/3Dconvto2D/3Dconvto2D.h 　プログラム解説 解説.pdf https://github.com/downloads/AeLP/3Dconvto2D/%E8%A7%A3%E8%AA%AC.pdf
 
 使い方 #include "3Dconvto2D.h" して、s_Pos CamPos,Targetのx,y,zの値をどこかでセットしといてください 　　　　　s_Pos PのデータP.x,P.y,P.zが存在するとき
 
